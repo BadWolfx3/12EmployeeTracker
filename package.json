@@ -1,0 +1,26 @@
+{
+  "name": "12employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadWolfx3/12EmployeeTracker.git"
+  },
+  "author": "Kelsey Busser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadWolfx3/12EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/BadWolfx3/12EmployeeTracker#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
